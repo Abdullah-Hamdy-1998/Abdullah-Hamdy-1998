@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate back-end developer from Egypt</h3>
 
-- 🔭 I’m currently working on [my graduation project](https://github.com/Abdullah-REPO/Cube)
+- 🔭 I’m currently working on [Cube platform (Graduation project)](https://github.com/Abdullah-REPO/Cube)
 
 - 🌱 I’m currently learning **Laravel framework**
 
 - 📫 How to reach me **abdullah.hamdi.1998@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdullah-hamdy-87b5801b3/](https://www.linkedin.com/in/abdullah-hamdy-87b5801b3/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
